@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in open source projects
 - 📫 You can reach me by:
      Email: sahayayush385@gmail.com
-     Phone No. 9142368098
+    
 
 <!---
 AyushSahay1902/AyushSahay1902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
