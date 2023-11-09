@@ -2,7 +2,7 @@
 ![MasterHead](https://selectec.com/wp-content/uploads/2015/11/scriping-1024x407.jpg)
 <h1 align="center">Hi 👋, I'm Ayush Sahay</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-<img align="right" margin-top:"10px" alt="coding" width="400" src="https://i.pinimg.com/originals/cc/db/2c/ccdb2c4699dc225376659f74baeb6713.gif">
+<img align="right" style="margin-top: 10px; height: 60%; border-radius: 10px;" alt="coding" width="400" src="https://i.pinimg.com/originals/cc/db/2c/ccdb2c4699dc225376659f74baeb6713.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsahay1902&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsahay1902" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ayush_sahay19" target="blank"><img src="https://img.shields.io/twitter/follow/@ayush_sahay19?logo=twitter&style=for-the-badge" alt="@ayush_sahay19" /></a> </p>
