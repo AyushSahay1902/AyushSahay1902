@@ -12,14 +12,15 @@ This space captures my passion for development and the projects that push the bo
 - **Automation & Integration** — Implementing CI/CD pipelines and API integrations to streamline workflows.
 
 ---
-
 ## 🚀 Featured Projects
-| Project | Description | Stack |
-|----------|--------------|-------|
-| [Campus App](https://ayushsahay19.vercel.app/) | Centralized platform to manage student workflows and schedules | Next.js, PostgreSQL, Docker |
-| Schedule Module | Dynamic scheduling solution powering modular time management features | React, TypeScript, Drizzle ORM |
-| Edge Auth Layer | Middleware authentication built for **Edge Runtime** in Next.js | Next.js, next-auth |
-| Personal Dashboard | Data-driven dashboard integrated with **Notion APIs** for content management | Next.js, Redux, PostgreSQL |
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [IAS Guide](https://www.ias.guide/) | A smart and interactive preparation platform for IAS aspirants, featuring structured learning content and intuitive navigation. | Next.js, TypeScript, TailwindCSS, Vercel |
+| [Podcastr Version](https://jsm-podcastr-version-ay.vercel.app/) | A podcast web app inspired by modern streaming UX — featuring audio streaming, episode lists, and responsive design. | React, Next.js, CSS Modules |
+| [Boom Zoom Clone](https://boom-zoom-clone.vercel.app/) | A collaborative video-call application replicating Zoom’s key features with a custom UI and real-time communication layer. | Next.js, WebRTC, TailwindCSS |
+| [OpenPose Custom Implementation](https://github.com/AyushSahay1902/openpose) | Adaptation of OpenPose for human pose estimation, experimenting with model inference and body tracking visualization. | Python, OpenCV, PyTorch |
+| [Ride Karo (Release)](https://github.com/AyushSahay1902/ride_karo/releases/tag/release) | Android-based urban mobility app with location-based ride booking and real-time tracking features. | Kotlin, Firebase, Google Maps API |
+| [Music Production Course Site](https://music-production-course-website.vercel.app/) | Marketing site for a digital music production course, showcasing modules, instructor sections, and course previews. | Next.js, React, Vercel |
 
 ---
 
@@ -54,8 +55,8 @@ This space captures my passion for development and the projects that push the bo
 
 ## 🧭 Connect
 🌍 Portfolio: [ayushsahay19.vercel.app](https://ayushsahay19.vercel.app/)  
-💼 LinkedIn: [linkedin.com/in/ayushsahay19](https://linkedin.com/in/ayushsahay19)  
-📧 Email: [ayushsahay19@gmail.com](mailto:ayushsahay19@gmail.com)
+💼 LinkedIn: [Ayush Sahay](https://www.linkedin.com/in/ayushsahay-developer/)  
+📧 Email: [ayushsahay1902@gmail.com](mailto:ayushsahay1902@gmail.com)
 
 ---
 
